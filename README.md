@@ -1,5 +1,7 @@
 # desafiodockergo
 
+Link da imagem no dockerhub: https://hub.docker.com/repository/docker/brunnogoncalves/desafiodockergo
+
 Desafio Go
 Publicar uma imagem no docker hub. Quando executarmos:
 
